@@ -9,8 +9,6 @@ HTML5 – For presenting information in a structured format
 
 CSS3 – For styling , layouts and aesthetics
 
-## Folder Structure
-
 ## Features:
 
 Responsive Layout – Works smoothly on any device
