@@ -1,9 +1,9 @@
-# Porfilio
+# Porfilio:
 
 A simple, clean, and responsive Personal Portfolio Website built using HTML5 and CSS3.
 This portfolio highlights my skills, projects, and background using a lightweight and minimal design.
 
-## Tech Stack
+## Tech Stack:
 
 HTML5 – For presenting information in a structured format
 
